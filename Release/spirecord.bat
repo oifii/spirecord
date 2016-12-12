@@ -1,0 +1,1 @@
+spirecord.exe globalrecording.wav 120 "E-MU ASIO" 2 3
